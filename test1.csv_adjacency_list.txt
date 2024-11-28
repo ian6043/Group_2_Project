@@ -1,0 +1,47 @@
+#C:\Users\Ian\anaconda3\Lib\site-packages\ipykernel_launcher.py -f C:\Users\Ian\AppData\Roaming\jupyter\runtime\kernel-33bc6701-5f1c-4fbd-bc36-83e577348739.json
+# GMT Thu Nov 28 04:29:37 2024
+# 
+s_1 , T_c2x1 , F_c2x1
+t_1
+s_2 , T_c4x2 , F_c4x2
+t_2
+s_3 , T_c1x3 , F_c1x3
+t_3
+s_4 , T_c1x4 , F_c1x4
+t_4
+s_5 , T_c1x5 , F_c1x5
+t_5
+s_6 , T_c2x6 , F_c2x6
+t_6
+c_1 , T_c1x3 , F_c1x4 , T_c1x5
+d_1
+T_c1x3 , d_1 , t_3
+F_c1x4 , d_1 , F_c3x4
+T_c1x5 , d_1 , T_c2x5
+c_2 , T_c2x1 , T_c2x6 , F_c2x5
+d_2
+T_c2x1 , d_2 , t_1
+T_c2x6 , d_2 , T_c3x6
+F_c2x5 , d_2 , F_c3x5
+c_3 , T_c3x4 , T_c3x5 , F_c3x6
+d_3
+T_c3x4 , d_3 , T_c4x4
+T_c3x5 , d_3 , T_c4x5
+F_c3x6 , d_3 , t_6
+c_4 , T_c4x2 , T_c4x4 , F_c4x5
+d_4
+T_c4x2 , d_4 , t_2
+T_c4x4 , d_4 , t_4
+F_c4x5 , d_4 , t_5
+F_c2x1 , t_1
+F_c4x2 , t_2
+F_c1x3 , t_3
+T_c1x4 , T_c3x4
+F_c3x4 , F_c4x4
+F_c4x4 , t_4
+F_c1x5 , F_c2x5
+T_c2x5 , T_c3x5
+F_c3x5 , F_c4x5
+T_c4x5 , t_5
+F_c2x6 , F_c3x6
+T_c3x6 , t_6

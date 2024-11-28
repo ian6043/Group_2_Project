@@ -1,0 +1,15 @@
+Result: Valid solution found
+
+Satifiable Variable Assignments:
+{'x1': 'T', 'x2': 'T', 'x3': 'T', 'x4': 'T', 'x5': 'T', 'x6': 'T'}Disjoint Paths in Graph:
+['s_1', 'T_c2x1', 't_1']
+['s_2', 'T_c4x2', 't_2']
+['s_3', 'T_c1x3', 't_3']
+['s_4', 'T_c1x4', 'T_c3x4', 'T_c4x4', 't_4']
+['s_5', 'T_c1x5', 'T_c2x5', 'T_c3x5', 'T_c4x5', 't_5']
+['s_6', 'T_c2x6', 'T_c3x6', 't_6']
+['c_1', 'F_c1x4', 'd_1']
+['c_2', 'F_c2x5', 'd_2']
+['c_3', 'F_c3x6', 'd_3']
+['c_4', 'F_c4x5', 'd_4']
+

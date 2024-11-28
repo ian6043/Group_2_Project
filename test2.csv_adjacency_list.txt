@@ -1,0 +1,163 @@
+#C:\Users\Ian\anaconda3\Lib\site-packages\ipykernel_launcher.py -f C:\Users\Ian\AppData\Roaming\jupyter\runtime\kernel-b1071e71-68b7-4c20-b03c-51111ecb1ba7.json
+# GMT Mon Nov 18 01:47:08 2024
+# 
+s_1 , T_c1x1 , F_c1x1
+t_1
+s_2 , T_c1x2 , F_c1x2
+t_2
+s_3 , T_c1x3 , F_c1x3
+t_3
+s_4 , T_c8x4 , F_c8x4
+t_4
+s_5 , T_c8x5 , F_c8x5
+t_5
+s_6 , T_c8x6 , F_c8x6
+t_6
+s_7 , T_c9x7 , F_c9x7
+t_7
+s_8 , T_c9x8 , F_c9x8
+t_8
+s_9 , T_c10x9 , F_c10x9
+t_9
+s_10 , T_c10x10 , F_c10x10
+t_10
+s_11 , T_c10x11 , F_c10x11
+t_11
+s_12 , T_c11x12 , F_c11x12
+t_12
+s_13 , T_c11x13 , F_c11x13
+t_13
+s_14 , T_c11x14 , F_c11x14
+t_14
+s_15 , T_c12x15 , F_c12x15
+t_15
+s_16 , T_c12x16 , F_c12x16
+t_16
+c_1 , F_c1x1 , F_c1x2 , F_c1x3
+d_1
+F_c1x1 , d_1 , F_c2x1
+F_c1x2 , d_1 , F_c2x2
+F_c1x3 , d_1 , F_c2x3
+c_2 , F_c2x1 , F_c2x2 , T_c2x3
+d_2
+F_c2x1 , d_2 , F_c3x1
+F_c2x2 , d_2 , F_c3x2
+T_c2x3 , d_2 , T_c3x3
+c_3 , F_c3x1 , T_c3x2 , F_c3x3
+d_3
+F_c3x1 , d_3 , F_c4x1
+T_c3x2 , d_3 , T_c4x2
+F_c3x3 , d_3 , F_c4x3
+c_4 , T_c4x1 , F_c4x2 , F_c4x3
+d_4
+T_c4x1 , d_4 , T_c5x1
+F_c4x2 , d_4 , F_c5x2
+F_c4x3 , d_4 , F_c5x3
+c_5 , T_c5x1 , F_c5x2 , T_c5x3
+d_5
+T_c5x1 , d_5 , T_c6x1
+F_c5x2 , d_5 , F_c6x2
+T_c5x3 , d_5 , T_c6x3
+c_6 , T_c6x1 , T_c6x2 , F_c6x3
+d_6
+T_c6x1 , d_6 , T_c7x1
+T_c6x2 , d_6 , T_c7x2
+F_c6x3 , d_6 , F_c7x3
+c_7 , T_c7x1 , T_c7x2 , T_c7x3
+d_7
+T_c7x1 , d_7 , T_c12x1
+T_c7x2 , d_7 , t_2
+T_c7x3 , d_7 , T_c15x3
+c_8 , F_c8x4 , F_c8x5 , F_c8x6
+d_8
+F_c8x4 , d_8 , F_c13x4
+F_c8x5 , d_8 , t_5
+F_c8x6 , d_8 , F_c9x6
+c_9 , F_c9x6 , F_c9x7 , F_c9x8
+d_9
+F_c9x6 , d_9 , t_6
+F_c9x7 , d_9 , F_c14x7
+F_c9x8 , d_9 , F_c14x8
+c_10 , F_c10x9 , F_c10x10 , F_c10x11
+d_10
+F_c10x9 , d_10 , F_c16x9
+F_c10x10 , d_10 , F_c16x10
+F_c10x11 , d_10 , F_c13x11
+c_11 , F_c11x12 , F_c11x13 , F_c11x14
+d_11
+F_c11x12 , d_11 , F_c13x12
+F_c11x13 , d_11 , F_c14x13
+F_c11x14 , d_11 , t_14
+c_12 , F_c12x15 , F_c12x16 , F_c12x1
+d_12
+F_c12x15 , d_12 , t_15
+F_c12x16 , d_12 , F_c15x16
+F_c12x1 , d_12 , t_1
+c_13 , T_c13x4 , T_c13x12 , F_c13x11
+d_13
+T_c13x4 , d_13 , T_c15x4
+T_c13x12 , d_13 , t_12
+F_c13x11 , d_13 , t_11
+c_14 , F_c14x7 , T_c14x8 , F_c14x13
+d_14
+F_c14x7 , d_14 , t_7
+T_c14x8 , d_14 , t_8
+F_c14x13 , d_14 , t_13
+c_15 , F_c15x16 , T_c15x3 , F_c15x4
+d_15
+F_c15x16 , d_15 , t_16
+T_c15x3 , d_15 , t_3
+F_c15x4 , d_15 , F_c16x4
+c_16 , F_c16x4 , F_c16x9 , T_c16x10
+d_16
+F_c16x4 , d_16 , t_4
+F_c16x9 , d_16 , t_9
+T_c16x10 , d_16 , t_10
+T_c1x1 , T_c2x1
+T_c2x1 , T_c3x1
+T_c3x1 , T_c4x1
+F_c4x1 , F_c5x1
+F_c5x1 , F_c6x1
+F_c6x1 , F_c7x1
+F_c7x1 , F_c12x1
+T_c12x1 , t_1
+T_c1x2 , T_c2x2
+T_c2x2 , T_c3x2
+F_c3x2 , F_c4x2
+T_c4x2 , T_c5x2
+T_c5x2 , T_c6x2
+F_c6x2 , F_c7x2
+F_c7x2 , t_2
+T_c1x3 , T_c2x3
+F_c2x3 , F_c3x3
+T_c3x3 , T_c4x3
+T_c4x3 , T_c5x3
+F_c5x3 , F_c6x3
+T_c6x3 , T_c7x3
+F_c7x3 , F_c15x3
+F_c15x3 , t_3
+T_c8x4 , T_c13x4
+F_c13x4 , F_c15x4
+T_c15x4 , T_c16x4
+T_c16x4 , t_4
+T_c8x5 , t_5
+T_c8x6 , T_c9x6
+T_c9x6 , t_6
+T_c9x7 , T_c14x7
+T_c14x7 , t_7
+T_c9x8 , T_c14x8
+F_c14x8 , t_8
+T_c10x9 , T_c16x9
+T_c16x9 , t_9
+T_c10x10 , T_c16x10
+F_c16x10 , t_10
+T_c10x11 , T_c13x11
+T_c13x11 , t_11
+T_c11x12 , T_c13x12
+F_c13x12 , t_12
+T_c11x13 , T_c14x13
+T_c14x13 , t_13
+T_c11x14 , t_14
+T_c12x15 , t_15
+T_c12x16 , T_c15x16
+T_c15x16 , t_16

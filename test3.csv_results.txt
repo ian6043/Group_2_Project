@@ -1,0 +1,2741 @@
+Result: No valid solution found
+
+Disjoint Paths in Graph:
+None
+
+Tried Variable Assignments:
+
+Assignment 1:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 2:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 3:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 4:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 5:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 6:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 7:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 8:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 9:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 10:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 11:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 12:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 13:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 14:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 15:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 16:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 17:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 18:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 19:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 20:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 21:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 22:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 23:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 24:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 25:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 26:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 27:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 28:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 29:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 30:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 31:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 32:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 33:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 34:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 35:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 36:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 37:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 38:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 39:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 40:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 41:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 42:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 43:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 44:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 45:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 46:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 47:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 48:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 49:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 50:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 51:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 52:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 53:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 54:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 55:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 56:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 57:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 58:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 59:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 60:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 61:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 62:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 63:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 64:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 65:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 66:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 67:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 68:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 69:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 70:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 71:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 72:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 73:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 74:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 75:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 76:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 77:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 78:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 79:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 80:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 81:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 82:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 83:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 84:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 85:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 86:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 87:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 88:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 89:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 90:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 91:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 92:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 93:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 94:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 95:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 96:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 97:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 98:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 99:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 100:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 101:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 102:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 103:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 104:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 105:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 106:
+{'x1': 'T', 'x2': 'T', 'x3': 'T'}
+Assignment 107:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 108:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 109:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 110:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 111:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 112:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 113:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 114:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 115:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 116:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 117:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 118:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 119:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 120:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 121:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 122:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 123:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 124:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 125:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 126:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 127:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 128:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 129:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 130:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 131:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 132:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 133:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 134:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 135:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 136:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 137:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 138:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 139:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 140:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 141:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 142:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 143:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 144:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 145:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 146:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 147:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 148:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 149:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 150:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 151:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 152:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 153:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 154:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 155:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 156:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 157:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 158:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 159:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 160:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 161:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 162:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 163:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 164:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 165:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 166:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 167:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 168:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 169:
+{'x1': 'T', 'x2': 'T', 'x3': 'F'}
+Assignment 170:
+{'x1': 'T', 'x2': 'T'}
+Assignment 171:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 172:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 173:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 174:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 175:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 176:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 177:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 178:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 179:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 180:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 181:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 182:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 183:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 184:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 185:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 186:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 187:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 188:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 189:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 190:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 191:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 192:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 193:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 194:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 195:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 196:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 197:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 198:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 199:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 200:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 201:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 202:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 203:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 204:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 205:
+{'x1': 'T', 'x2': 'F', 'x3': 'T'}
+Assignment 206:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 207:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 208:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 209:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 210:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 211:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 212:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 213:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 214:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 215:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 216:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 217:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 218:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 219:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 220:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 221:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 222:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 223:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 224:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 225:
+{'x1': 'T', 'x2': 'F', 'x3': 'F'}
+Assignment 226:
+{'x1': 'T', 'x2': 'F'}
+Assignment 227:
+{'x1': 'T'}
+Assignment 228:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 229:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 230:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 231:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 232:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 233:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 234:
+{'x1': 'F', 'x2': 'T', 'x3': 'T'}
+Assignment 235:
+{'x1': 'F', 'x2': 'T', 'x3': 'F'}
+Assignment 236:
+{'x1': 'F', 'x2': 'T', 'x3': 'F'}
+Assignment 237:
+{'x1': 'F', 'x2': 'T', 'x3': 'F'}
+Assignment 238:
+{'x1': 'F', 'x2': 'T', 'x3': 'F'}
+Assignment 239:
+{'x1': 'F', 'x2': 'T'}
+Assignment 240:
+{'x1': 'F', 'x2': 'F', 'x3': 'T'}
+Assignment 241:
+{'x1': 'F', 'x2': 'F', 'x3': 'T'}
+Assignment 242:
+{'x1': 'F', 'x2': 'F', 'x3': 'F'}
+Assignment 243:
+{'x1': 'F', 'x2': 'F'}
+Assignment 244:
+{'x1': 'F'}
+Assignment 245:
+{}Tried Combinations:
+Combination 1:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 2:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 3:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 4:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 5:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 6:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 7:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 8:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 9:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 10:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 11:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 12:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 13:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 14:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 15:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 16:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 17:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 18:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 19:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 20:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 21:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 22:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 23:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 24:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 25:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 26:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 27:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 28:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 29:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 30:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 31:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 32:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 33:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 34:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 35:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+
+Combination 36:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 37:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 38:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 39:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 40:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 41:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 42:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 43:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 44:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 45:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 46:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 47:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 48:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 49:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 50:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 51:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 52:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 53:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 54:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 55:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 56:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 57:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 58:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 59:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 60:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 61:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 62:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 63:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 64:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 65:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 66:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 67:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 68:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 69:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 70:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+
+Combination 71:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 72:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 73:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 74:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 75:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 76:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 77:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 78:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 79:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 80:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 81:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 82:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 83:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 84:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 85:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 86:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 87:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 88:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 89:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 90:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 91:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 92:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 93:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 94:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 95:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 96:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 97:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 98:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 99:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+  ['c_7', 'F_c7x3', 'd_7']
+
+Combination 100:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 101:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 102:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 103:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 104:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 105:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+
+Combination 106:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+
+Combination 107:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 108:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 109:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 110:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 111:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 112:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 113:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 114:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 115:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 116:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 117:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 118:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 119:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 120:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 121:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 122:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 123:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 124:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 125:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 126:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 127:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 128:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 129:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 130:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 131:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 132:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 133:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 134:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 135:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 136:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+
+Combination 137:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+
+Combination 138:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 139:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 140:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 141:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 142:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 143:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 144:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 145:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 146:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 147:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 148:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 149:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 150:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 151:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 152:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 153:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 154:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 155:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 156:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 157:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 158:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 159:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 160:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 161:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 162:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'F_c6x2', 'd_6']
+
+Combination 163:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+  ['c_6', 'T_c6x3', 'd_6']
+
+Combination 164:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+  ['c_5', 'F_c5x2', 'd_5']
+
+Combination 165:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 166:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 167:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+
+Combination 168:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+
+Combination 169:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+
+Combination 170:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+
+Combination 171:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 172:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 173:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 174:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 175:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 176:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 177:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 178:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 179:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 180:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+
+Combination 181:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 182:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 183:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 184:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 185:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 186:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 187:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+
+Combination 188:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 189:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 190:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 191:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 192:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 193:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 194:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 195:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 196:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 197:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+
+Combination 198:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 199:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 200:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+  ['c_5', 'F_c5x3', 'd_5']
+
+Combination 201:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 202:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 203:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 204:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+
+Combination 205:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+
+Combination 206:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 207:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 208:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 209:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 210:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 211:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 212:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 213:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+
+Combination 214:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'F_c2x1', 'd_2']
+
+Combination 215:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 216:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 217:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 218:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'F_c3x1', 'd_3']
+
+Combination 219:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'F_c4x1', 'd_4']
+
+Combination 220:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x2', 'd_4']
+
+Combination 221:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+  ['c_4', 'T_c4x3', 'd_4']
+
+Combination 222:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+  ['c_3', 'T_c3x2', 'd_3']
+
+Combination 223:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+
+Combination 224:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x1', 'd_1']
+
+Combination 225:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+
+Combination 226:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+
+Combination 227:
+  ['s_1', 'T_c1x1', 'T_c2x1', 'T_c3x1', 'T_c4x1', 'T_c5x1', 'T_c6x1', 'T_c7x1', 'T_c8x1', 't_1']
+
+Combination 228:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 229:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 230:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+
+Combination 231:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+  ['c_3', 'F_c3x3', 'd_3']
+
+Combination 232:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 233:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+
+Combination 234:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+
+Combination 235:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'F_c2x2', 'd_2']
+
+Combination 236:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+  ['c_2', 'T_c2x3', 'd_2']
+
+Combination 237:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+  ['c_1', 'F_c1x2', 'd_1']
+
+Combination 238:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+
+Combination 239:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'T_c1x2', 'T_c2x2', 'T_c3x2', 'T_c4x2', 'T_c5x2', 'T_c6x2', 'T_c7x2', 'T_c8x2', 't_2']
+
+Combination 240:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+  ['c_1', 'F_c1x3', 'd_1']
+
+Combination 241:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'T_c1x3', 'T_c2x3', 'T_c3x3', 'T_c4x3', 'T_c5x3', 'T_c6x3', 'T_c7x3', 'T_c8x3', 't_3']
+
+Combination 242:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+  ['s_3', 'F_c1x3', 'F_c2x3', 'F_c3x3', 'F_c4x3', 'F_c5x3', 'F_c6x3', 'F_c7x3', 'F_c8x3', 't_3']
+
+Combination 243:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+  ['s_2', 'F_c1x2', 'F_c2x2', 'F_c3x2', 'F_c4x2', 'F_c5x2', 'F_c6x2', 'F_c7x2', 'F_c8x2', 't_2']
+
+Combination 244:
+  ['s_1', 'F_c1x1', 'F_c2x1', 'F_c3x1', 'F_c4x1', 'F_c5x1', 'F_c6x1', 'F_c7x1', 'F_c8x1', 't_1']
+
+Combination 245:
+
